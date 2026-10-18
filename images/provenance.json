@@ -1,0 +1,94 @@
+{
+  "repository": "https://github.com/landifydesign/inteo-gatsby-template",
+  "commit": "893b846ff13991a31aa70a871147e7300ba1ca39",
+  "license_statement": "README: Use it for whatever you want, and be sure to reach us out on Twitter if you build anything cool/useful with it.",
+  "license_source": "https://github.com/landifydesign/inteo-gatsby-template/blob/893b846ff13991a31aa70a871147e7300ba1ca39/README.md",
+  "license_limitation": "No standalone LICENSE file or photographer-specific attribution is present in the repository.",
+  "assets": [
+    {
+      "filename": "hero-image.png",
+      "source": "https://raw.githubusercontent.com/landifydesign/inteo-gatsby-template/893b846ff13991a31aa70a871147e7300ba1ca39/src/images/hero-image.png",
+      "served_filenames": [
+        "hero.webp",
+        "hero-mobile.webp"
+      ]
+    },
+    {
+      "filename": "about-creative.png",
+      "source": "https://raw.githubusercontent.com/landifydesign/inteo-gatsby-template/893b846ff13991a31aa70a871147e7300ba1ca39/src/images/about-creative.png",
+      "served_filenames": [
+        "studio.webp"
+      ]
+    },
+    {
+      "filename": "work-1.png",
+      "source": "https://raw.githubusercontent.com/landifydesign/inteo-gatsby-template/893b846ff13991a31aa70a871147e7300ba1ca39/src/images/works/work-1.png",
+      "served_filenames": [
+        "timber-dining.webp"
+      ]
+    },
+    {
+      "filename": "work-2.png",
+      "source": "https://raw.githubusercontent.com/landifydesign/inteo-gatsby-template/893b846ff13991a31aa70a871147e7300ba1ca39/src/images/works/work-2.png",
+      "served_filenames": [
+        "quiet-dining.webp"
+      ]
+    },
+    {
+      "filename": "work-3.png",
+      "source": "https://raw.githubusercontent.com/landifydesign/inteo-gatsby-template/893b846ff13991a31aa70a871147e7300ba1ca39/src/images/works/work-3.png",
+      "served_filenames": [
+        "courtyard.webp"
+      ]
+    }
+  ],
+  "optimization": {
+    "format": "WebP",
+    "resizing": "Proportional width limit, without upscaling",
+    "transparency": "Original alpha channel retained",
+    "assets": [
+      {
+        "filename": "hero.webp",
+        "width": 1920,
+        "height": 853,
+        "bytes": 158154,
+        "hasAlpha": false
+      },
+      {
+        "filename": "hero-mobile.webp",
+        "width": 900,
+        "height": 400,
+        "bytes": 39960,
+        "hasAlpha": false
+      },
+      {
+        "filename": "timber-dining.webp",
+        "width": 961,
+        "height": 720,
+        "bytes": 51750,
+        "hasAlpha": true
+      },
+      {
+        "filename": "quiet-dining.webp",
+        "width": 961,
+        "height": 721,
+        "bytes": 60296,
+        "hasAlpha": true
+      },
+      {
+        "filename": "courtyard.webp",
+        "width": 961,
+        "height": 721,
+        "bytes": 98640,
+        "hasAlpha": true
+      },
+      {
+        "filename": "studio.webp",
+        "width": 592,
+        "height": 560,
+        "bytes": 29168,
+        "hasAlpha": true
+      }
+    ]
+  }
+}
