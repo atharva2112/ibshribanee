@@ -1,0 +1,31 @@
+{
+  "type": "Original AI-generated architectural concept visualisations",
+  "generator": "OpenAI image generation",
+  "purpose": "Unbuilt Mumbai residential design studies commissioned for this redesign",
+  "not_completed_client_work": true,
+  "images": [
+    {
+      "file": "concept-bandra.webp",
+      "project": "The Collected Apartment",
+      "location_brief": "Bandra, Mumbai",
+      "area_target_sq_ft": 900
+    },
+    {
+      "file": "concept-powai.webp",
+      "project": "The Family Courtyard",
+      "location_brief": "Powai, Mumbai",
+      "area_target_sq_ft": 1350
+    },
+    {
+      "file": "concept-worli.webp",
+      "project": "The Quiet Horizon",
+      "location_brief": "Worli, Mumbai",
+      "area_target_sq_ft": 1850
+    }
+  ],
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "note": "Images express material and spatial intent. They are not photographs of completed work or measured architectural views. Layout diagrams and area schedules are authored schematic planning studies."
+}
